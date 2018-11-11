@@ -1,4 +1,4 @@
-# opto
+# Optikai méréstechnika
 
 A labor kiértékeléséhez használt programok.
 
